@@ -1,0 +1,65 @@
+REST API -JSON
+ 
+GET /users - list all users
+GET /users/1 - get the user with ID 1
+GET /users/2 - get the user with ID 2
+
+POST/users - create a new user
+
+PATCH /users - update the user
+
+DELETE /users/1 - delete the user
+1726483114997  GET  undefined
+1726483165954  GET  undefined
+
+ 1726483229628  GET  undefined
+
+ 1726483262550  GET  /api/users/1000
+
+ 1726483329995  GET  /api/users/1000
+
+ 1726483350289  GET  /api/users/1000  ::1
+
+ 1726484032236  GET  /api/users/1000  ::1
+
+ 1726484277070  POST  /api/users  ::1
+
+ 1726484895937  POST  /api/users  ::1
+
+ 1726484955365  POST  /api/users  ::1
+
+ 1726485090410  POST  /api/users  ::1
+
+ 1726485108523  POST  /api/users  ::1
+
+ 1726485119757  POST  /api/users  ::1
+
+ 1726503599006  POST  /api/users  ::1
+
+ 1726503647623  POST  /api/users  ::1
+
+ 1726503705330  POST  /api/users  ::1
+
+ 1726503766508  POST  /api/users  ::1
+
+ 1726503862663  POST  /api/users  ::1
+
+ 1726504016925  GET  /  ::1
+
+ 1726504017408  GET  /  ::1
+
+ 1726504024020  GET  /users  ::1
+
+ 1726504024146  GET  /favicon.ico  ::1
+
+ 1726515081100  GET  /api/users  ::1
+
+ 1726515160301  GET  /api/users  ::1
+
+ 1726515182457  GET  /api/users  ::1
+
+ 1726515216483  GET  /api/users  ::1
+
+ 1726515273600  GET  /users  ::1
+
+ 1726515282500  GET  /api/users  ::1
